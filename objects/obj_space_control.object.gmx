@@ -260,6 +260,8 @@ if (global.supernova) {
     global.supernova = false;
     nova_radius = 0;
     instance_create(room_width / 2, room_height / 2, obj_ship);
+    global.spawn_x = room_width / 2;
+    global.spawn_y = room_height / 2;
 }
 </string>
           </argument>

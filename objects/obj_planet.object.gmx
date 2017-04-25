@@ -89,6 +89,8 @@ for (var i = 0; i &lt; ds_list_size(room_list); i++)
             obj_ship.spd = 0;
             obj_ship.x = x;
             obj_ship.y = y;
+            global.spawn_x = x;
+            global.spawn_y = y;
             
             global.color = color;
             global.room_list = room_list;
