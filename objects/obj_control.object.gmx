@@ -187,7 +187,7 @@ persistent = false;
         draw_set_alpha(leave_alpha);
         
         draw_set_halign(fa_center);
-        draw_text(room_width / 2, 7, "Press A to leave");
+        draw_text(room_width / 2, 7, "Press A  to leave");
         
         draw_set_alpha(1);
     }

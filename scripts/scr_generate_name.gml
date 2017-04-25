@@ -74,7 +74,7 @@ ds_list_add(name_starts, "Ig");
 ds_list_add(name_starts, "Fas");
 
 ds_list_add(name_starts, "Quan");
-ds_list_add(name_starts, "To");
+ds_list_add(name_starts, "Tor");
 ds_list_add(name_starts, "Terach");
 ds_list_add(name_starts, "Lu");
 ds_list_add(name_starts, "Zani");
@@ -159,7 +159,7 @@ ds_list_add(name_ends, "liak");
 ds_list_add(name_ends, "toon");
 
 ds_list_add(name_ends, "tos");
-ds_list_add(name_ends, "rren");
+ds_list_add(name_ends, "ren");
 ds_list_add(name_ends, "nos");
 ds_list_add(name_ends, "mos");
 ds_list_add(name_ends, "far");
